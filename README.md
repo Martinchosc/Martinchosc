@@ -31,11 +31,16 @@ I've been learning how roblox studio works, how to store in an optimized way the
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/>_
 
 ---
+## 📊 Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Martinchosc&show_icons=true&bg_color=00000000" alt="Martincho's GitHub Stats"/>
+</div>
 
+---
 ## ❓ Q/A
 **¿How much time do I have to devote to a project?**
 
-Currently with university timetables I can dedicate between 1 or 2 hours a day to the projects I am working on, depending on the week. During exam week I will not be working, I hope you understand that.
+Currently with university timetables I can dedicate between 2 or 3 hours a day to the projects I am working on, depending on the week. During exam week I will not be working, I hope you understand that.
 
 In the case of a large project that has an upgrade plan and a developed team, I may have special considerations to dedicate more time to it.
 
@@ -43,3 +48,8 @@ In the case of a large project that has an upgrade plan and a developed team, I 
 
 Right now I've been trying to implement Visual Studio Code with Roblox Studio to be able to work with Git so that the work of a team stays organised and we can log every change that is made to the game. So I consider that teamwork is not a problem.
 
+**¿Payment methods?**
+
+Paypal or Robux.
+
+## 💎 My Journey
