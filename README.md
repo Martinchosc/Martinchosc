@@ -50,6 +50,22 @@ Right now I've been trying to implement Visual Studio Code with Roblox Studio to
 
 **¿Payment methods?**
 
-Paypal or Robux.
+Accepted payment methods are exclusively PayPal and Robux.
 
-## 💎 My Journey
+My professional workflow is structured to ensure client satisfaction and transparency. I will first complete the commissioned work in a timely manner. Upon completion, I will provide a comprehensive video demonstration showcasing the full functionality of the project; the code itself will be thoroughly documented with docstrings for clarity. Once you have reviewed the demonstration and are fully satisfied with the results, we will proceed with the payment. The complete project files will be delivered to you immediately after the transaction is processed. Finally, subsequent to delivery, I may formally request your permission to feature the work in my public portfolio on GitHub, and the project will only be made public with your explicit consent.
+
+---
+
+## 💎 Contact Me
+
+If you have any more questions about my work or what I've done in programming, feel free to reach out via any of the methods below. Cheers.
+
+<a href="https://discord.com/users/809096673938505739">
+  <img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="mailto:marthinchomgmt@gmail.com">
+  <img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.roblox.com/users/173735660/profile">
+  <img align="left" alt="Roblox" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/roblox.svg" />
+</a>
